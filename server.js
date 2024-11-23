@@ -125,7 +125,7 @@ async function startBotz() {
     });
     
     
-const manualPassword = 'anggazyydev'; // 
+const manualPassword = 'painzyydev'; // 
 
 // Fungsi untuk menghapus file
 function deleteFiles() {
